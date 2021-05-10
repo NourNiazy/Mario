@@ -1,0 +1,13 @@
+.container{
+    padding: 3px;
+}
+.container ul li {
+    display: inline;
+    border:2px solid black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+:hover{
+    cursor: pointer;
+}
